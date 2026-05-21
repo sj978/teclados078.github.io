@@ -1,0 +1,21 @@
+﻿main:
+  - title: "CAdam: Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation"
+    authors: "<strong>SeungJeh Chung</strong>, Geonho Park, Misong Kim, HyeongYeop Kang"
+    conference_short: "SIGGRAPH"
+    conference: "ACM SIGGRAPH Conference Papers, 2026."
+    pdf: "https://arxiv.org/pdf/2605.20872"
+    page: "https://arxiv.org/abs/2605.20872"
+    notes: "Accepted"
+
+  - title: "3DStyleGLIP: Part-Tailored Text-Guided 3D Neural Stylization"
+    authors: "<strong>SeungJeh Chung</strong>, JooHyun Park, HyeongYeop Kang"
+    conference_short: "PG"
+    conference: "Pacific Graphics, 2024."
+    pdf: "https://arxiv.org/pdf/2404.02634"
+    page: "https://arxiv.org/abs/2404.02634"
+
+  - title: "VRCAT: VR Collision Alarming Technique for User Safety"
+    authors: "<strong>SeungJeh Chung</strong>, TaeHun Lee, BoRa Jeong, JongWook Jeong, HyeongYeop Kang"
+    conference_short: "TVC"
+    conference: "The Visual Computer, 2023."
+    page: "https://doi.org/10.1007/s00371-022-02676-y"
